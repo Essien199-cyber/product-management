@@ -274,3 +274,8 @@ a {
 .choose .choose-text p{
   color: #834ccc;
 }
+
+.choose img{
+  width: 700px;
+  height: 600px;
+}
