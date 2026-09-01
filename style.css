@@ -20,19 +20,20 @@ a {
 }
 
 .logo h1 {
-  color: #834ccc;
   font-size: 30px;
   font-weight: 900;
   font-style: normal;
 }
 
 .navbars {
+  color: #834ccc;
   display: flex;
   align-items: center;
   gap: 40px;
 }
 
 .navbars nav a {
+  color: #834ccc;
   font-size: 18px;
   margin-left: 18px;
   font-weight: 800;
